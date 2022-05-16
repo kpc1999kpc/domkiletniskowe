@@ -1,4 +1,4 @@
-package pl.bykowski.kolo5;
+package project.employee;
 
 import lombok.*;
 

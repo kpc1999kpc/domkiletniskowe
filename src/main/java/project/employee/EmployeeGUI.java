@@ -1,4 +1,4 @@
-package pl.bykowski.kolo5;
+package project.employee;
 
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
@@ -26,7 +26,7 @@ public class EmployeeGUI extends VerticalLayout {
 
         button.addClickListener(clickEvent-> {
             /*
-            Employee employee = new Employee();
+            Employee project.employee = new Employee();
             computer.setDdrType(textFieldDdrType.getValue());
             computer.setMhz(Long.parseLong(textFieldMhz.getValue()));
             computer.setMemorySize(Integer.parseInt(textFieldMemorySize.getValue()));

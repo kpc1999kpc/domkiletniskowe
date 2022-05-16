@@ -1,4 +1,4 @@
-package pl.bykowski.kolo5;
+package project.employee;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
